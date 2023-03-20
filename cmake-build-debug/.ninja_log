@@ -1,0 +1,7 @@
+# ninja log v5
+1	299	1679327100244135337	CMakeFiles/ProgramacionI.dir/testIdeas.cpp.o	7b84aefc44279d15
+4	877	1678926088418329795	CMakeFiles/ProgramacionI.dir/RegistroDeHotel.cpp.o	ca373561f37be069
+299	355	1679327100301134588	ProgramacionI	13b03e1855ef918c
+0	24	1679327294562581646	build.ninja	247286bd34ab5c7
+0	328	1678709341418156288	CMakeFiles/ProgramacionI.dir/Aeropuerto.cpp.o	8910bb56c8634da8
+1	626	1678799561029720893	CMakeFiles/ProgramacionI.dir/ControlDeReservasDimar.cpp.o	107c39fb8cd75192

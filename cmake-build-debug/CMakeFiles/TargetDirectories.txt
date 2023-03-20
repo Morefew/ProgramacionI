@@ -1,0 +1,3 @@
+/home/leogo/Documents/ProgramacionI/cmake-build-debug/CMakeFiles/ProgramacionI.dir
+/home/leogo/Documents/ProgramacionI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leogo/Documents/ProgramacionI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
